@@ -1,0 +1,6 @@
+namespace HandsOnWeb.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
