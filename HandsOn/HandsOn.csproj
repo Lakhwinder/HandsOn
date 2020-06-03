@@ -45,6 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DesignPatterns\SOLID\DependencyInversion.cs" />
+    <Compile Include="DesignPatterns\SOLID\InterfaceSegregation.cs" />
+    <Compile Include="DesignPatterns\SOLID\LiskovSubstitution.cs" />
+    <Compile Include="DesignPatterns\SOLID\OpenClosed.cs" />
+    <Compile Include="DesignPatterns\SOLID\SingleResponsibility.cs" />
     <Compile Include="Generics\Constraints.cs" />
     <Compile Include="Generics\Generics.cs" />
     <Compile Include="Program.cs" />
